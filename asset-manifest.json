@@ -1,19 +1,20 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.1e3ac6aa.css",
-    "main.js": "/portafolio/static/js/main.814f4bd3.js",
+    "main.css": "/portafolio/static/css/main.4222e93d.css",
+    "main.js": "/portafolio/static/js/main.aa224eb0.js",
     "static/media/video-2.mp4": "/portafolio/static/media/video-2.8b473a6d625b373e7e05.mp4",
     "static/media/me-about.png": "/portafolio/static/media/me-about.3377a74b87e569cc9f4a.png",
     "static/media/homepage.png": "/portafolio/static/media/homepage.a8c155726785c30e200b.png",
     "static/media/homepageferia.png": "/portafolio/static/media/homepageferia.94b5deb72bf91ad09682.png",
+    "static/media/blackjacksc.png": "/portafolio/static/media/blackjacksc.65e36102185ffacca898.png",
     "static/media/me.jpeg": "/portafolio/static/media/me.20f042b34eb84af5e4c4.jpeg",
-    "static/media/Christian-Vergara-CV-2.pdf": "/portafolio/static/media/Christian-Vergara-CV-2.e1c7dc65946afbd6ad98.pdf",
+    "static/media/Christian-Vergara-CV-5.pdf": "/portafolio/static/media/Christian-Vergara-CV-5.e9e950b5aa5fa1679501.pdf",
     "index.html": "/portafolio/index.html",
-    "main.1e3ac6aa.css.map": "/portafolio/static/css/main.1e3ac6aa.css.map",
-    "main.814f4bd3.js.map": "/portafolio/static/js/main.814f4bd3.js.map"
+    "main.4222e93d.css.map": "/portafolio/static/css/main.4222e93d.css.map",
+    "main.aa224eb0.js.map": "/portafolio/static/js/main.aa224eb0.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e3ac6aa.css",
-    "static/js/main.814f4bd3.js"
+    "static/css/main.4222e93d.css",
+    "static/js/main.aa224eb0.js"
   ]
 }
