@@ -23,7 +23,7 @@ const About = () => {
                         <article className='about__card'>
                             <FaAward className='about__icon' />
                             <h5>Experiencia</h5>
-                            <small>6 meses</small>
+                            <small>7 meses</small>
                         </article>
 
                         <article className='about__card'>
@@ -41,8 +41,8 @@ const About = () => {
 
                     <p>
                     Desarrollador Full Stack. Con una amplia gama de habilidades tecnológicas como: JavaScript, React.js, Git, Node.js, MongoDB, Mongoose, Express, HTML5, CSS3 y AWS . 
-                    Proactivo, eficaz, empático y profesional en lo que hago. Amable, respetuoso. 
-                    Mi objetivo es incorporarme a una empresa u organización, aportando mis conocimientos como desarrollador, y  continuar aprendiendo nuevas tecnologías, para enfrentar los más diversos y desafiantes problemas.
+                    Soy un joven proactivo, eficaz, empático, amable, respetuoso y profesional en lo que hago. 
+                    Mi objetivo es desempeñarme de manera correcta, cumpliendo con mi labor y ayudando a quien lo necesite. Mi motivación es continuar aprendiendo nuevas tecnologías, para enfrentar los más diversos y desafiantes problemas.
                     </p>
 
                     <a href="#contact" className='btn btn-primary'>Hablemos</a>
