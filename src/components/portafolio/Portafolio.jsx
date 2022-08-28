@@ -4,6 +4,7 @@ import IMG1 from '../../assests/homepage.png';
 import IMG2 from '../../assests/homepageferia.png';
 import IMG3 from '../../assests/blackjacksc.png';
 import IMG4 from '../../assests/quizapp.png';
+import IMG5 from '../../assests/shorturl.png';
 
 
 const data = [ 
@@ -27,12 +28,20 @@ const data = [
         title: 'BlackJack',
         github: 'https://github.com/Chrisvd9/simple-blackjack-game',
         demo: 'https://chrisvd9.github.io/simple-blackjack-game/'
-    },    {
+    },   
+    {
         id: 3,
         image: IMG4,
         title: 'Quizapp',
         github: 'https://github.com/Chrisvd9/quizapp',
         demo: 'https://quizappchris.herokuapp.com/'
+    },
+    {
+        id: 4,
+        image: IMG5,
+        title: 'Ushort',
+        github: 'https://github.com/Chrisvd9/ShortUrls',
+        demo: 'https://shorturls-production-fe26.up.railway.app/'
     },
 
 
