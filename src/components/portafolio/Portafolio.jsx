@@ -4,6 +4,7 @@ import IMG1 from "../../assests/homepage.png";
 import IMG2 from "../../assests/homepageferia.png";
 import IMG3 from "../../assests/blackjacksc.png";
 import IMG4 from "../../assests/quizapp.png";
+import IMG5 from "../../assests/shorturl.png";
 import IMG6 from "../../assests/ad-1.png";
 import IMG7 from "../../assests/app-planificador.png";
 import IMG8 from "../../assests/inicio-criptos.png";

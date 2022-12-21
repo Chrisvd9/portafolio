@@ -29,7 +29,7 @@ const About = () => {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clientes</h5>
-              <small>1</small>
+              <small>1 cliente</small>
             </article>
 
             <article className="about__card">
