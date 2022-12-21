@@ -1,22 +1,27 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.22b853ae.css",
-    "main.js": "/portafolio/static/js/main.24529afa.js",
+    "main.js": "/portafolio/static/js/main.6f619cdf.js",
     "static/media/video-2.mp4": "/portafolio/static/media/video-2.8b473a6d625b373e7e05.mp4",
+    "static/media/home-rootlab.png": "/portafolio/static/media/home-rootlab.ed7a3ce73f9789ac0c9e.png",
     "static/media/me-about.png": "/portafolio/static/media/me-about.3377a74b87e569cc9f4a.png",
     "static/media/homepage.png": "/portafolio/static/media/homepage.a8c155726785c30e200b.png",
     "static/media/homepageferia.png": "/portafolio/static/media/homepageferia.94b5deb72bf91ad09682.png",
+    "static/media/inicio-criptos.png": "/portafolio/static/media/inicio-criptos.3fe047626419762cfecd.png",
     "static/media/blackjacksc.png": "/portafolio/static/media/blackjacksc.65e36102185ffacca898.png",
     "static/media/me.jpeg": "/portafolio/static/media/me.20f042b34eb84af5e4c4.jpeg",
+    "static/media/app-planificador.png": "/portafolio/static/media/app-planificador.2614062dc82d7b8c47e0.png",
+    "static/media/home-docmovi.png": "/portafolio/static/media/home-docmovi.14c2409408dce78f1e36.png",
     "static/media/quizapp.png": "/portafolio/static/media/quizapp.a480affff48217056d9e.png",
-    "static/media/CV-Christian-Vergara-v2 .pdf": "/portafolio/static/media/CV-Christian-Vergara-v2 .2c81c9e9002fd606c8c9.pdf",
+    "static/media/Christian-Vergara-CV-2023.pdf": "/portafolio/static/media/Christian-Vergara-CV-2023.251475f3e799e21cd917.pdf",
+    "static/media/ad-1.png": "/portafolio/static/media/ad-1.683910fa87c2b8ed94a9.png",
     "static/media/shorturl.png": "/portafolio/static/media/shorturl.91e814dba9eeeb3f39b9.png",
     "index.html": "/portafolio/index.html",
     "main.22b853ae.css.map": "/portafolio/static/css/main.22b853ae.css.map",
-    "main.24529afa.js.map": "/portafolio/static/js/main.24529afa.js.map"
+    "main.6f619cdf.js.map": "/portafolio/static/js/main.6f619cdf.js.map"
   },
   "entrypoints": [
     "static/css/main.22b853ae.css",
-    "static/js/main.24529afa.js"
+    "static/js/main.6f619cdf.js"
   ]
 }
