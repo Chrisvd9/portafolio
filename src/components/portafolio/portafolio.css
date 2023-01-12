@@ -31,6 +31,29 @@
     gap: 1rem;
     margin-bottom: 1rem;
 }
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .pagination ul li {
+    display: inline;
+    padding: 10px 15px;
+    background: #eee;
+    margin: 10px;
+    cursor: pointer;
+  }
+  
+  table {
+    border-collapse: collapse;
+    margin: auto;
+  }
+  
+  td,
+  th {
+    border: 1px solid;
+    padding: 20px;
+  }
 
 /* ============= MEDIA QUERIES (MEDIUM DEVICES) =============== */
 
