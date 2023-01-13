@@ -41,7 +41,7 @@ export const data = [
   {
     id: 5,
     image: IMG6,
-    title: "Administrador de pacientes veterinaria",
+    title: "Administrador de pacientes",
     github: "https://github.com/Chrisvd9/Administrador-de-pacientes-vet",
     demo: "https://clinquant-granita-a7b6f4.netlify.app/",
   },
