@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafolio/static/css/main.dd5c2630.css",
-    "main.js": "/portafolio/static/js/main.fe7ff268.js",
+    "main.js": "/portafolio/static/js/main.ac61165a.js",
     "static/media/video-2.mp4": "/portafolio/static/media/video-2.8b473a6d625b373e7e05.mp4",
     "static/media/home-rootlab.png": "/portafolio/static/media/home-rootlab.ed7a3ce73f9789ac0c9e.png",
     "static/media/me-about.png": "/portafolio/static/media/me-about.3377a74b87e569cc9f4a.png",
@@ -13,15 +13,15 @@
     "static/media/app-planificador.png": "/portafolio/static/media/app-planificador.2614062dc82d7b8c47e0.png",
     "static/media/home-docmovi.png": "/portafolio/static/media/home-docmovi.14c2409408dce78f1e36.png",
     "static/media/quizapp.png": "/portafolio/static/media/quizapp.a480affff48217056d9e.png",
-    "static/media/Christian-Vergara-CV-actualizado-2023.pdf": "/portafolio/static/media/Christian-Vergara-CV-actualizado-2023.412feb2f09819d4c1342.pdf",
     "static/media/ad-1.png": "/portafolio/static/media/ad-1.683910fa87c2b8ed94a9.png",
+    "static/media/CV-CHRISTIAN-VERGARA-TEMPLATE-2-2023.pdf": "/portafolio/static/media/CV-CHRISTIAN-VERGARA-TEMPLATE-2-2023.25fca9dce819fb7c1ce0.pdf",
     "static/media/shorturl.png": "/portafolio/static/media/shorturl.91e814dba9eeeb3f39b9.png",
     "index.html": "/portafolio/index.html",
     "main.dd5c2630.css.map": "/portafolio/static/css/main.dd5c2630.css.map",
-    "main.fe7ff268.js.map": "/portafolio/static/js/main.fe7ff268.js.map"
+    "main.ac61165a.js.map": "/portafolio/static/js/main.ac61165a.js.map"
   },
   "entrypoints": [
     "static/css/main.dd5c2630.css",
-    "static/js/main.fe7ff268.js"
+    "static/js/main.ac61165a.js"
   ]
 }
