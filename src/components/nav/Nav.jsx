@@ -12,11 +12,11 @@ const Nav = () => {
 
     return (
         <nav>
-            <a href="#" onClick={()=> setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><AiOutlineHome/></a>
-            <a href="#about" onClick={()=> setActiveNav('#about')} className={activeNav === '#about' ? 'active' : ''}><AiOutlineUser/></a>
-            <a href="#experience" onClick={()=> setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><RiServiceLine/></a>
-            <a href="#portafolio" onClick={()=> setActiveNav('#portafolio')} className={activeNav === '#portafolio' ? 'active' : ''}><BiBook/></a>
-            <a href="#contact" onClick={()=> setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}><BiMessageSquareDetail/></a>
+            <a rel="noreferrer noopener" href="#" onClick={()=> setActiveNav('#')} className={activeNav === '#' ? 'active' : ''}><AiOutlineHome/></a>
+            <a rel="noreferrer noopener" href="#about" onClick={()=> setActiveNav('#about')} className={activeNav === '#about' ? 'active' : ''}><AiOutlineUser/></a>
+            <a rel="noreferrer noopener" href="#experience" onClick={()=> setActiveNav('#experience')} className={activeNav === '#experience' ? 'active' : ''}><RiServiceLine/></a>
+            <a rel="noreferrer noopener" href="#portafolio" onClick={()=> setActiveNav('#portafolio')} className={activeNav === '#portafolio' ? 'active' : ''}><BiBook/></a>
+            <a rel="noreferrer noopener" href="#contact" onClick={()=> setActiveNav('#contact')} className={activeNav === '#contact' ? 'active' : ''}><BiMessageSquareDetail/></a>
         </nav>
     );
 }

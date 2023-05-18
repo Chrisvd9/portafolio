@@ -1,6 +1,5 @@
 import React, { useState } from "react";
 import { data } from "../../data";
-import Pagination from 'react-bootstrap/Pagination';
 import "./portafolio.css";
 
 const Portafolio = () => {
@@ -41,7 +40,7 @@ const Portafolio = () => {
               </div>
               <h3>{title}</h3>
               <div className="portafolio__item-cta">
-                <a href={github} className="btn" target="_blank" rel="noopener">
+                <a href={github} className="btn" target="_blank" rel="noreferrer noopener">
                   GitHub
                 </a>
                 {demo ? (
@@ -49,7 +48,7 @@ const Portafolio = () => {
                     href={demo}
                     className="btn btn-primary"
                     target="_blank"
-                    rel="noopener"
+                    rel="noreferrer noopener"
                   >
                     Live Demo
                   </a>
