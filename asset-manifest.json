@@ -1,12 +1,12 @@
 {
   "files": {
-    "main.css": "/portafolio/static/css/main.dd5c2630.css",
-    "main.js": "/portafolio/static/js/main.ac61165a.js",
+    "main.css": "/portafolio/static/css/main.ca0dbfb9.css",
+    "main.js": "/portafolio/static/js/main.96aa0627.js",
     "static/media/video-2.mp4": "/portafolio/static/media/video-2.8b473a6d625b373e7e05.mp4",
     "static/media/home-rootlab.png": "/portafolio/static/media/home-rootlab.ed7a3ce73f9789ac0c9e.png",
-    "static/media/me-about.png": "/portafolio/static/media/me-about.3377a74b87e569cc9f4a.png",
     "static/media/homepage.png": "/portafolio/static/media/homepage.a8c155726785c30e200b.png",
     "static/media/homepageferia.png": "/portafolio/static/media/homepageferia.94b5deb72bf91ad09682.png",
+    "static/media/me.png": "/portafolio/static/media/me.bac50644453c566705a6.png",
     "static/media/inicio-criptos.png": "/portafolio/static/media/inicio-criptos.3fe047626419762cfecd.png",
     "static/media/blackjacksc.png": "/portafolio/static/media/blackjacksc.65e36102185ffacca898.png",
     "static/media/me.jpeg": "/portafolio/static/media/me.20f042b34eb84af5e4c4.jpeg",
@@ -17,11 +17,11 @@
     "static/media/CV-CHRISTIAN-VERGARA-TEMPLATE-2-2023.pdf": "/portafolio/static/media/CV-CHRISTIAN-VERGARA-TEMPLATE-2-2023.25fca9dce819fb7c1ce0.pdf",
     "static/media/shorturl.png": "/portafolio/static/media/shorturl.91e814dba9eeeb3f39b9.png",
     "index.html": "/portafolio/index.html",
-    "main.dd5c2630.css.map": "/portafolio/static/css/main.dd5c2630.css.map",
-    "main.ac61165a.js.map": "/portafolio/static/js/main.ac61165a.js.map"
+    "main.ca0dbfb9.css.map": "/portafolio/static/css/main.ca0dbfb9.css.map",
+    "main.96aa0627.js.map": "/portafolio/static/js/main.96aa0627.js.map"
   },
   "entrypoints": [
-    "static/css/main.dd5c2630.css",
-    "static/js/main.ac61165a.js"
+    "static/css/main.ca0dbfb9.css",
+    "static/js/main.96aa0627.js"
   ]
 }
